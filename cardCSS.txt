@@ -1,0 +1,6 @@
+.card
+	.card-img-top/.card-img-bottom/.card-img
+	.card-header
+	.card-body
+	.card-footer
+	.card-img-overlay

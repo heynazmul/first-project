@@ -1,0 +1,6 @@
+1. Offcanvas
+2. main=Home slider
+3. nav-underline hover
+4. shortcodes-swiper
+5. nav
+6. events calender

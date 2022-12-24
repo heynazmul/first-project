@@ -1,0 +1,168 @@
+/*Navber part*/
+ @import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&family=Mulish:ital,wght@0,500;0,600;0,700;0,800;0,900;1,800;1,900&display=swap');
+
+.font-mr-Dafoe{
+	font-family: 'Mr Dafoe',cursive;
+}
+/*Navber part*/
+.navbar-nav a {
+	font-size:14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.dropdown-item{
+	width: 210px !important;
+}
+
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    
+	font-size:14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.nav-bg{
+	background-color:#e1f339 !important;
+}
+.nav-link{
+	margin: 8px;
+	color: white !important;
+}
+.navbar-dark .navbar-toggler {
+	border-color:transparent;
+}
+/*Navber part end*/
+
+/*After Before  part Start*/
+#underline li :after{
+	content:"";
+	position: absolute;
+	background-color: #00e1dd;
+	height: 3px;
+	width: 0;
+	bottom: 0px;
+	transition:0.3s;
+	margin-left: 10px;
+	margin-top: 2rem;
+}
+#underline li:hover:after{
+	width:80%;
+}
+/*After Before  part end*/
+
+/*Color part*/
+.border1{
+	
+	padding: 17px 12px 19px;
+	width: 100px;
+	height: 50px;
+	text-decoration: none;
+	color:white;
+}
+
+.bg-color1{
+	background-image: linear-gradient(to right,aqua , yellow);
+	transition: 1s background-position ease-in-out;
+}
+.bg-color1:hover{
+	background-image: linear-gradient(to right,yellow ,aqua );
+	transition:all 2s !important;
+	
+}
+.bg-color2{
+	background-color: #4e3bc8 !important;
+	}
+.accordion-button:not(.collapsed) {
+	background-color:#222222;
+}
+ .text-bg {
+		font-size: 72px;
+		background: -webkit-linear-gradient(#00e1dd, #e1f339);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+.btn-gradient{ 
+background-image: linear-gradient(to right,aqua , yellow);
+transition: all 1s;
+}
+.btn-gradient:hover{ 
+	background: black;
+}
+/*Color part end*/
+
+
+/*Hover part*/
+.hover-dropdown .dropdown-menu{
+	display: block;
+	visibility: hidden;
+	opacity: 0;
+	box-shadow: 0 5px 5px rgb(24 24 24 / 25%);
+	-webkit-box-shadow: 0 5px 5px rgb(24 24 24 / 25%);
+	top:125%;
+	-webkit-transition: 1000ms ease all;
+	-moz-transition: 10000ms ease all;
+	transition: 1000ms ease all;
+	
+}
+.hover-dropdown:hover .dropdown-menu{
+	top: 110%;
+	visibility: visible;
+	opacity: 100;
+	color: #e1f339;
+}
+
+.hover-dropdown .dropdown-menu-end{
+	right: 0;
+	left: auto;
+}
+.dropdown-item, .dropdown-item:active {
+    color: black !important;
+    text-decoration: none;
+    background-color: #e1f339 !important;
+}
+#mainNav .dropdown-menu{
+	width:225px;
+}
+.font-accordion{
+	font-size:15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-weight:15px;
+	text-transform:uppercase;
+}
+.font-accordion  a{
+	font-size:15px;
+	padding-left: 12px;
+	text-decoration: none;
+	color: white;
+}
+.font-accordion a:hover{
+	color: rgb(7, 255, 234);
+	font-size:15px;
+}
+
+@media(max-width:767px){
+	    #fontsmall{
+		font-size: 28px;
+		padding-top:75px;
+	}
+}
+.Social-icon{
+	font-size:1.5rem;
+}
+.list-group{
+	list-style:none;
+}
+/*Button part*/
+
+.text-color1{
+	color: #e1f339 !important;
+}
+.btn2{
+	background-color:#4e3bc8 !important;
+}
+.btn2:hover{
+	background-color: black !important;
+}
+/*Button part end*/
+

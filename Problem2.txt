@@ -1,0 +1,35 @@
+Home
+	Home fullwidth
+	HOME BOXED
+FEATURES
+	TYPOGRAPHY (complete)
+	SHORTCODES(Running)
+	GALLERY 
+		GRID (complete)/ without responsive
+		MASONRY (complete)/without responsive
+		COBBLES (complete)/ without responsive
+	HELP
+		SERVICES PLUS(complete)/without responsive
+		PRIVACY POLICY
+ABOUT
+	OUR FEATURES
+	OUR BENEFITS
+	OUR SERVICES 
+	OUR TEAM
+PRICING
+BLOG
+	ALL POSTS
+	CLASSIC STYLE
+		2 COLUMNS
+		3 COLUMNS
+	CHESS STYLE
+		2 COLUMNS
+		4 COLUMNS
+		6 COLUMNS
+	PORTFOLIO 
+		2 COLUMNS
+		3 COLUMNS
+		4 COLUMNS
+EVENTS
+CONTACT US
+	
